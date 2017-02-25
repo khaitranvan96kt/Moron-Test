@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ad2534fc7a48d4a43a6f0f32698a641a
+timeCreated: 1487403376
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Schoolbell
+  fontNames:
+  - Schoolbell
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
